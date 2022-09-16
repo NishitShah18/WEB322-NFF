@@ -1,3 +1,5 @@
 # Assignment 1
 
-I am restarting my a-1
+Completed in other repo since it was required by cyclic.sh
+
+Link to Assignment: [HelloWorld](https://github.com/NishitShah18/helloworld)
