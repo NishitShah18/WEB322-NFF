@@ -13,7 +13,7 @@ Section: WEB322 NFF
     <th>Grades</th>
   </tr>
   <tr>
-    <td>Assignment</td>
+    <td>Assignment - 1</td>
     <td>16<sup>th</sup> September</td>
     <td>??/5</td>
   </tr>
