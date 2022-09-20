@@ -10,6 +10,7 @@ Section: WEB322 NFF
 <table>
   <tr>
     <th>Info</th>
+    <th>Date</th>
     <th>Grades</th>
   </tr>
   <tr>
