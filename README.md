@@ -53,12 +53,10 @@ Upon successful completion of this subject the student will be able to:
 # Essential Employability Skills
 
 <ul>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li>Execute mathematical operations accurately</li>
+   <li>Apply a systematic approach to solve problems</li>
+   <li>Use a variety of thinking skills to anticipate and solve problems</li>
+   <li>Locate, select, organize, and document information using appropriate technology and information systems</li>
+   <li>Manage the use of time and other resources to complete projects</li>
+   <li>Take responsibility for one's own actions, decisions, and consequences</li>
 </ul>
