@@ -35,6 +35,34 @@ Section: WEB322 NFF
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>Info</th>
+    <th>Date</th>
+    <th>Grades</th>
+  </tr>
+  <tr>
+    <td>Test - 1</td>
+    <td>21<sup>st</sup> September</td>
+    <td>10/10</td>
+  </tr>
+  <tr>
+    <td>Test - 2</td>
+    <td>5<sup>th</sup> October</td>
+    <td>10/10</td>
+  </tr>
+  <tr>
+    <td>Test - 3</td>
+    <td>19<sup>th</sup> October</td>
+    <td>7/10</td>
+  </tr>
+  <tr>
+    <td>Test - 4</td>
+    <td>9<sup>th</sup> November</td>
+    <td>9/10</td>
+  </tr>
+</table>
+
 <hr>
 
 # Subject Title
