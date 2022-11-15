@@ -26,7 +26,12 @@ Section: WEB322 NFF
   <tr>
     <td>Assignment - 3</td>
     <td>14<sup>th</sup> October</td>
-    <td>??/9</td>
+    <td>9/9</td>
+  </tr>
+  <tr>
+    <td>Assignment - 4</td>
+    <td>4<sup>th</sup> November</td>
+    <td>9/9</td>
   </tr>
 </table>
 
