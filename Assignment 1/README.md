@@ -1,3 +1,3 @@
 # Assignment 1
 
-Link to Assignment: [HelloWorld](https://github.com/NishitShah18/helloworld)
+Link to the Assignment: [HelloWorld](https://github.com/NishitShah18/helloworld)
