@@ -33,6 +33,16 @@ Section: WEB322 NFF
     <td>4<sup>th</sup> November</td>
     <td>9/9</td>
   </tr>
+  <tr>
+    <td>Assignment - 5</td>
+    <td>18<sup>th</sup> November</td>
+    <td>9/9</td>
+  </tr>
+  <tr>
+    <td>Assignment - 6</td>
+    <td>2<sup>nd</sup> December</td>
+    <td>9/9</td>
+  </tr>
 </table>
 
 <table>
